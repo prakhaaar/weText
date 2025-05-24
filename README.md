@@ -1,18 +1,22 @@
 # 💬 weText
 
-**weText** is a real-time chat application built with the **MERN** stack (MongoDB, Express, React, Node.js). It enables users to sign in, join conversations, and communicate instantly in a modern, responsive interface.
+**weText** is a real-time chat application built with the **MERN** stack (MongoDB, Express, React, Node.js). It offers instant messaging with a modern, responsive interface and smooth user experience powered by **Socket.IO** and **Zustand**.
 
 ---
 
 ## 🚀 Features
 
-- 🔐 **User Authentication** – Secure sign up and login system
-- 💬 **Real-time Messaging** – Instant communication powered by WebSockets
-- 🧑‍🤝‍🧑 **Multiple Chat Rooms** – Organize conversations in separate channels
-- 🌓 **Responsive UI** – Optimized for mobile and desktop
-- 🌐 **MERN Stack Architecture** – Clean separation between client and server logic
+- 🔐 **User Authentication** – Secure signup and login
+- 💬 **Real-time Messaging** – Instant communication using **Socket.IO**
+- 🧑‍🤝‍🧑 **Multiple Chat Rooms** – Organize conversations into channels
+- 🗂 **State Management with Zustand** – Lightweight and efficient client state management
+- 🌓 **Responsive UI** – Mobile and desktop friendly
+- 🌐 **MERN Stack Architecture** – Clean separation of frontend and backend
 
 ---
+
+## 📂 Project Structure
+
 
 ## 📂 Project Structure
 
