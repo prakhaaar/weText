@@ -13,10 +13,26 @@
 - 🌓 **Responsive UI** – Mobile and desktop friendly
 - 🌐 **MERN Stack Architecture** – Clean separation of frontend and backend
 
----
+--
 
-## 📂 Project Structure
+## 📸 App Screenshots
 
+| Login Screen | Signup Screen | Homepage |
+|--------------|---------------|----------|
+| ![Login](./src/assets/login.png) | ![Signup](./src/assets/signup.png) | ![Homepage](./src/assets/homepage.png) |
+
+## 🔔 Notification Sound
+
+> Notification audio used: [notification.mp3](./src/assets/notification.mp3)
+
+## 👤 User Avatar
+
+> Default avatar:  
+> ![User Avatar](./src/assets/user.jpg)
+
+## 🎥 Demo Video
+
+> [Watch Demo (MP4)](./src/assets/demo%20weText'.mp4)
 
 ## 📂 Project Structure
 
