@@ -32,7 +32,7 @@
 
 ## 🎥 Demo Video
 
-> [Watch Demo (MP4)](./src/assets/demo%20weText'.mp4)
+> [Watch Demo (MP4)](./frontend/src/assets/demo weText'.mp4)
 
 ## 📂 Project Structure
 
