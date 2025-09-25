@@ -19,20 +19,20 @@
 
 | Login Screen | Signup Screen | Homepage |
 |--------------|---------------|----------|
-| ![Login](./src/assets/login.png) | ![Signup](./src/assets/signup.png) | ![Homepage](./src/assets/homepage.png) |
+| ![Login](frontend/src/assets/login.png) | ![Signup](frontend/src/assets/signup.png) | ![Homepage](frontend/src/assets/homepage.png) |
 
 ## 🔔 Notification Sound
 
-> Notification audio used: [notification.mp3](./src/assets/notification.mp3)
+> Notification audio used: [notification.mp3](frontend/src/assets/notification.mp3)
 
 ## 👤 User Avatar
 
 > Default avatar:  
-> ![User Avatar](./src/assets/user.jpg)
+> ![User Avatar](fronend/src/assets/user.jpg)
 
 ## 🎥 Demo Video
 
-> [Watch Demo (MP4)](./frontend/src/assets/demo weText'.mp4)
+> [Watch Demo (MP4)](frontend/src/assets/demoweText.mp4)
 
 ## 📂 Project Structure
 
